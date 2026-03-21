@@ -93,3 +93,7 @@ while op!=6:
             res5 = OP.sumaN(Num5)
             print(res5)
             input("\nPresiona ENTER para continuar...")
+
+
+
+            
